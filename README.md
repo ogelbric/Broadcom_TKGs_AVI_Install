@@ -8,6 +8,6 @@ Here is also a samle cluster yaml (https://github.com/ogelbric/Broadcom_TKGs_AVI
 
 kubectl apply -f ./cluster.yaml
 
-kubectl get tkr  #to gett all the possible versions
+kubectl get tkr  #to get all the possible versions
 
 
